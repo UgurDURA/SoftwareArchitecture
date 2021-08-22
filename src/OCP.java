@@ -122,7 +122,7 @@ class AndSpecification<T> implements Specification<T>
     }
 }
 
-class Demo
+class OCP_Demo
 {
     public static void main(String[] args) {
         Product apple=new Product ("Apple", Color.GREEN, Size.SMALL);
